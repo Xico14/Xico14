@@ -1,4 +1,6 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sono&weight=800&size=46&pause=1000&color=6FF70C&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%9B%D0%9E%D0%96%D0%AC&width=2000&height=1000&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Xico!+%F0%9F%91%8B)](https://git.io/typing-svg)👋
+
+
 
 <!--
 **Xico14/Xico14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
