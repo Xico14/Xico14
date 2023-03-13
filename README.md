@@ -55,4 +55,4 @@
 
 #### Также вы можете оценить мои наработки подпиской и лайком:
 
-[![](https://visitcount.itsvg.in/api?id=Xico&label=Profile%20Views&color=2&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Xico14&label=https%3A%2F%2Fgithub.com%2FXico14&color=2&icon=3&pretty=false)](https://visitcount.itsvg.in)
