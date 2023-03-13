@@ -37,15 +37,15 @@
 
 #### 📊 Статистика GitHub:
 
-![](https://github-readme-stats.vercel.app/api?username=Xico&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Xico14&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xico&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xico14&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ***
 
 #### 🏆 Трофеи GitHub:
 
-![](https://github-profile-trophy.vercel.app/?username=Xico&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Xico14&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ***
 
